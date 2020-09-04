@@ -1,0 +1,29 @@
+* {
+ margin: 0%;
+ padding: 0%;  
+}
+
+#title{
+color : white;
+text-align: center;
+background-color:rgba(25, 0, 255, 0.726);
+height: 5vh;
+padding: 10px;
+}
+.main {
+ color: rgba(25, 0, 255, 0.726);
+background-color:rgba(228, 227, 231, 0);
+text-align: center;
+padding: 25rem;
+height: 10vh;
+}
+.footer{
+ color: white;
+ padding: 10px;
+ background-color:rgba(25, 0, 255, 0.726);
+ text-align: center;
+ height: 5vh;
+
+
+
+}
